@@ -18,6 +18,4 @@
 
 #### apaixonado por tecnologia, ingressei no mundo da programação a pouco tempo, mas persisto na minha tragetória com afinco!
 - 🔭 Desenvolvimento web
-- 🌱 Estudante da Trybe
 - 👯 Cursando Análise e desenvolvimento de Sistemas
-- 📫 Em busca da primeira oportunidade de trabalho

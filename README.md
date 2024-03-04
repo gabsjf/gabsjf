@@ -18,4 +18,6 @@
 
 #### apaixonado por tecnologia, ingressei no mundo da programação a pouco tempo, mas persisto na minha tragetória com afinco!
 - 🔭 Desenvolvimento web
-- 👯 Cursando Análise e desenvolvimento de Sistemas
+- 👯 Cursando Análise e desenvolvimento de Sistemas e Engenharia de Software
+- Atualmente me encontro como júnior
+- tenho minha própria empresa (ainda em contrução) de soluções digitais

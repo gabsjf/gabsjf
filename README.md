@@ -20,4 +20,4 @@
 - 🔭 Desenvolvimento web
 - 👯 Cursando Análise e desenvolvimento de Sistemas e Engenharia de Software
 - Atualmente me encontro como júnior
-- tenho minha própria empresa (ainda em contrução) de soluções digitais
+- tenho minha própria empresa (ainda em contrução) de soluções digitais e um estúdio de video games

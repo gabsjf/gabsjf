@@ -15,9 +15,7 @@
   <a href="www.linkedin.com/in/gabsfelix" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-#### apaixonado por tecnologia, ingressei no mundo da programação a pouco tempo, mas persisto na minha tragetória com afinco!
 - 🔭 Desenvolvimento web
-- 👯 Cursando Análise e desenvolvimento de Sistemas e Engenharia de Software
-- Atualmente me encontro como júnior
-- tenho minha própria empresa (ainda em contrução) de soluções digitais e um estúdio de video games
+- 👯 Cursando Análise e desenvolvimento de Sistemas na UCDB
+- Estágiário no CREA-MS
+- Criador da Bit Bash Studios, um estúdio indie de jogos

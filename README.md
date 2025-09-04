@@ -24,7 +24,8 @@
 
 ---
 
-![Snake animation](snake.svg)
+![Snake animation](dist/github-contribution-grid-snake.svg)
+
 ---
 
 ### 🌎 Onde me encontrar:

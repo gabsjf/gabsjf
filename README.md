@@ -24,6 +24,9 @@
 
 ---
 
+![Snake animation](snake.svg)
+---
+
 ### 🌎 Onde me encontrar:
 <div> 
   <a href="https://www.youtube.com/channel/UCXU24RVC3WnMziGzzrFi9FA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>

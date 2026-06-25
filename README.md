@@ -18,7 +18,7 @@
 
 ### 📌 Sobre mim:
 - 🔭 Atuo com **desenvolvimento web** e **game development**  
-- 🎓 Estudante de **Engenharia de Software** na **UCDB**  
+- 🎓 Estudante de **Análise e desenvolvimento** na **UCDB**  
 - 💼 Estagiário na **Melhorescolha.net**  
 - 🎮 Criador da **Bit Bash Studios**, um estúdio indie de jogos  
 
